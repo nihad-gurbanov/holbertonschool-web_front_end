@@ -15,12 +15,6 @@ body, a {
 .visually-hidden {
   display: none;
 }
-.card-category {
-  color: #D73953;
-}
-.section-tagline {
-  color: #D73953;
-}
 .section-tagline, .card-category {
   color: var(--color-primary);
 }

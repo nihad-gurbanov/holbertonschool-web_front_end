@@ -653,7 +653,7 @@ ul.row {
   text-decoration: none;
   padding-top: 45%;
 }
-.card-title::after, .card-work::after a {
+.card-work .card-title a::after {
   position: absolute;
   top: 0;
   right: 0;
